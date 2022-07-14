@@ -1,4 +1,7 @@
 # crm-system
+![alt text](./crm.PNG)
+
+
 
 ## Project setup
 ```
